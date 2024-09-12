@@ -2,7 +2,7 @@
 ```bash
 git clone https://github.com/JoaoVictorFBarros/Flutter_Graphic.git
 ```
-## Vá para o repositório
+## Vá para o diretório
 ```bash
 cd ./Flutter_Graphic/
 ```
